@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/sc1.rpy", line 125: expected statement.
+    eat_c=0
+         ^
+
+Ren'Py Version: Ren'Py 6.99.14.3.3347
+Mon May 21 14:50:16 2018
